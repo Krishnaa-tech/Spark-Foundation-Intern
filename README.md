@@ -1,4 +1,4 @@
-Prediction-using-Unsupervised-ML
+# Prediction-using-Unsupervised-ML
 OBJECTIVE-Clustering of Iris Dataset
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
@@ -19,5 +19,5 @@ Recompute the centroids of newly formed clusters
 
 Repeat steps 3 and 4
 
-# Petrol Price Prediction 
+# Petrol Price Prediction using Supervised ML 
 **Pridiction through Linear and Lasso Regression Model
