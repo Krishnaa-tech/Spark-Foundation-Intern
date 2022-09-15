@@ -19,5 +19,5 @@ Recompute the centroids of newly formed clusters
 
 Repeat steps 3 and 4
 
-#Petrol Price Prediction 
+# Petrol Price Prediction 
 **Pridiction through Linear and Lasso Regression Model
